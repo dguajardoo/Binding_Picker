@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{0F9E57F1-6A21-42FA-A738-120767C1D3D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Binding/BindingPage.xaml.cs">
+    <Files>
+      <File FileName="Binding/BindingPage.xaml" Line="21" Column="19" />
+      <File FileName="Binding/BindingPage.xaml.cs" Line="52" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Binding.Droid PreferredExecutionTarget="Android.3300cf452ecaa2db" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Binding.iOS PreferredExecutionTarget="Xamarin.Player.XamarinStudio.DefaultPlayerExecutionTarget">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Binding.iOS>
+</Properties>
